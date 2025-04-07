@@ -1,23 +1,20 @@
 # Hello, I'm Jason Hodge
 <a href="https://www.linkedin.com/in/jason-hodge-ms-6729ab1a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a curious and driven technologist with a strong foundation in cybersecurity and information systems. I earned both my Bachelor’s and Master’s degrees from Marist University, focusing on cybersecurity, networking, and systems management. I have a profound interest in technology and a dedication to solving complex problems. 
+I am a self-motivated and driven technologist with a strong foundation in cybersecurity and information systems. I earned both my Bachelor’s and Master’s degrees from Marist University, focusing on cybersecurity, networking, and systems management. I have a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective
 
 Through my educational and professional work experience thus far, I have developed a passion for cybersecurity and IT. I am now eager to gain an opportunity to learn and grow my skills further, specifically aspiring to be a Cybersecurity Analyst, SOC Analyst,  IT Professional, IAM Analyst, Project Manager, Penetration Tester, or related position. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Expanding Knowledge with Network Security Tools | <a href="https://github.com/Jhodge9611/Jason_Hodge_Projects/tree/main/Network%20Security%20Projects">Network Security Projects</a>|
+| Growth with Topics in Network Virtualization | <a href="https://github.com/Jhodge9611/Jason_Hodge_Projects/tree/main/Network%20Virtualization%20Projects">Network Virtualization Projects</a>|
+| Utilizing some Relevant Security Tools | <a href="https://github.com/Jhodge9611/Jason_Hodge_Projects/tree/main/Hacking%20%26%20Penetration%20Testing%20Projects">Hacking & Penetration Testing Projects</a>|
+| Creation of Practical Database Projects | <a href="https://github.com/Jhodge9611/Jason_Hodge_Projects/tree/main/Data%20Management%20Project">Data Management Projects</a>|
 
 ## Tools
 
@@ -93,7 +90,3 @@ Through my educational and professional work experience thus far, I have develop
 <img src="https://img.shields.io/badge/-ServiceNow%20System%20Administrator%20from%20Zero%20to%20Hero-00A1E0?&style=for-the-badge&logo=servicenow&logoColor=white" />
 <img src="https://img.shields.io/badge/-Advanced%20Network%20Security%20Specialization%20Certification-000080?&style=for-the-badge&logo=cyberdefense&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
