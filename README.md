@@ -86,6 +86,7 @@ Through my educational and professional work experience thus far, I have develop
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-SIEM%20Splunk%20Hands--On%20Guide%20Specialization-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner%20Essentials-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Prompt%20Engineering%20for%20ChatGPT-8A2BE2?&style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-ServiceNow%20System%20Administrator%20from%20Zero%20to%20Hero-00A1E0?&style=for-the-badge&logo=servicenow&logoColor=white" />
 <img src="https://img.shields.io/badge/-Advanced%20Network%20Security%20Specialization%20Certification-000080?&style=for-the-badge&logo=cyberdefense&logoColor=white" />
