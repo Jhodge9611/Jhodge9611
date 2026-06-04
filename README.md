@@ -7,7 +7,7 @@ I am a self-motivated and driven technologist with a strong foundation in cybers
 
 Through my educational and professional work experience thus far, I have developed a passion for cybersecurity and IT. 
 I am currently a high school Computer Technology Business teacher imparting my knowledge and skill set onto the next generation. 
-## I am now eager to gain an opportunity to learn and grow my skills further, specifically aspiring to be a Cybersecurity Analyst, SOC Analyst,  IT Professional, IAM Analyst, Project Manager, Penetration Tester, or related position.
+<!-- I am now eager to gain an opportunity to learn and grow my skills further, specifically aspiring to be a Cybersecurity Analyst, SOC Analyst,  IT Professional, IAM Analyst, Project Manager, Penetration Tester, or related position. -->
 
 ## Skills
 
